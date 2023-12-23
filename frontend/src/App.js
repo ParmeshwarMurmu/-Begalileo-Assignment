@@ -1,11 +1,11 @@
 // import logo from './logo.svg';
-import './App.css';
+// import './App.css';
 
 import ButtonComp from './Compponent/ButtonComp';
 
 function App() {
   return (
-    <div className="App">
+    <div>
      
      <ButtonComp />
     </div>
